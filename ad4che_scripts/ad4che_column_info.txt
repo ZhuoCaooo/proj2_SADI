@@ -1,0 +1,20 @@
+Column Information:
+================================================================================
+recording_id: int64
+ego_vehicle_id: int64
+trajectory_type: object
+center_frame: float64
+lane_change_direction: float64
+frame: float64
+time_relative_to_center: float64
+vehicle_id: int64
+vehicle_type: object
+x: float64
+y: float64
+width: float64
+height: float64
+xVelocity: float64
+yVelocity: float64
+xAcceleration: float64
+yAcceleration: float64
+laneId: float64
